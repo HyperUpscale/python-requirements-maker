@@ -9,7 +9,8 @@ SAVES A LOT OF TIME AND FRUSTRATION installing or testing new projects and repos
 
 This will make the file parse the required packages from the file.
 
-[![Alt Text](https://raw.githubusercontent.com/HyperUpscale/python-requirements-maker/example.mp4)]([https://raw.githubusercontent.com/<username>/<repository>/main/<path to video file>/example.mp4](https://raw.githubusercontent.com/HyperUpscale/python-requirements-maker/example.mp4)https://raw.githubusercontent.com/HyperUpscale/python-requirements-maker/example.mp4)
+<iframe width="955" height="449" src="https://raw.githubusercontent.com/HyperUpscale/python-requirements-maker/main/example.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
    
