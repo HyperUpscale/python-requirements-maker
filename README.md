@@ -9,8 +9,6 @@ SAVES A LOT OF TIME AND FRUSTRATION installing or testing new projects and repos
 
 This will make the file parse the required packages from the file.
 
-[![Alt Text](https://raw.githubusercontent.com/HyperUpscale/python-requirements-maker/main/example.mp4)](https://raw.githubusercontent.com/HyperUpscale/python-requirements-maker/main/example.mp4)
-
 
 
    
